@@ -1,6 +1,6 @@
 var pokemon = {
     firstname: 'Pika',
-    lastname: 'Chu ',
+    lastname: 'Chu',
     getPokeName: function(){
         var fullname = this.firstname + ' ' + this.lastname;
         return fullname;
